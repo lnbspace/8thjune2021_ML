@@ -1,0 +1,17 @@
+Python Fundamentals
+--------------------
+1. How to Create Variable (identifier rules)
+2. Rule of Brackets
+	() ---> Functions/Tuple/Mathematical Expression
+	{} ---> Dictionary/Set
+	[] ---> Indexing/Slicing/List
+	<> ---> X
+3. Operators
+4. Data Types
+5. Control Statements (conditional/looping/error handling)
+6. User defined functions
+7. OOP
+
+
+print('Nice')
+((4/5)-3)*(4+9)
