@@ -1,0 +1,7 @@
+name,age,subject
+sujeet,20,python
+vineet,21,python
+ajay,22,java
+vinesh,18,CPP
+amit,20,python
+kapil,19,python
