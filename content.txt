@@ -1,0 +1,46 @@
+- Python Basics
+
+Data
+------
+Numerical
+Text
+Audio
+
+Image (Computer Vision)
+Video (Computer Vision)
+
+
+
+Libraries/Module
+-----------------
+(Data Manipulation & Analysis)
+- Numpy
+- Pandas
+- Scipy
+
+(Data Visualization)
+- Matplotlib
+- Pandas
+- Seaborn
+- Plotly
+
+(Machine Learning) - Predictive Analysis
+- sklearn
+
+(Natural Language Processing NLP) - Text Data
+- nltk
+- sklearn
+
+(Deep Learning/Neural Network) - ANN/CNN/RNN
+- sklearn
+- tensorflow (2)
+- pytorch
+- keras
+
+
+Supportive Content
+--------------------
+- GUI Development using Tkinter (Desktop)
+- Web-Scrapping (Live-data scrapping from website)
+- Flask Web Development
+- Cloud Integration/APIs
