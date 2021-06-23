@@ -1,0 +1,17 @@
+GUI Development with Tkinter
+===============================
+
+1. Tk()
+	- app
+	- app.geomtery()
+	- app.title() 
+2. Label
+3. Entry
+4. Button
+
+5. OptionMenu
+6. ListBox
+7. RadioButton
+8. Menu
+9. SpinBox
+10.ComboBox
